@@ -2,10 +2,6 @@
 $nama = "Adela Suci Wulandari Hasibuan";
 $deskripsi = "Pengembang Backend & Spesialis Basis Data";
 $tentang = "Saya adalah seorang backend developer yang memiliki keahlian dalam database management dan pengembangan aplikasi berbasis PHP Native.";
-$proyek = [
-    ["judul" => "Kasir Digital", "deskripsi" => "Aplikasi kasir berbasis PHP Native dan Tailwind CSS."],
-    ["judul" => "Sistem Absensi", "deskripsi" => "Aplikasi absensi sekolah dengan fitur pelaporan otomatis."]
-];
 $kontak = [
     "Email" => "wulanhasibuan32@gmail.com",
 ];
